@@ -16,9 +16,9 @@ Contains functions for handling finite state machine animations and a utility cl
 For more details visit the [Wiki](https://github.com/capdevon/jme-capdevon-examples/wiki) section.
 
 ## Building and Running
-- run `./gradlew install`
+- run `gradlew install`
 - open `build/install/jme-capdevon-examples/bin`
-- run `./jme-capdevon-examples com.capdevon.demo.Test_Climbing` replace `Test_Climbing` with any class you want
+- run `jme-capdevon-examples com.capdevon.demo.Test_Climbing` replace `Test_Climbing` with any class you want
 
 ## YouTube videos
 - [Rewind time](https://www.youtube.com/watch?v=124yx2i7KZc)
